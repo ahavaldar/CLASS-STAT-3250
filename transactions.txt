@@ -1,0 +1,1266 @@
+Wed May 21 15:47:57 2014 27	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-6.pg	1	-1	2673	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+736
+_status
+267272282C2D29	0	0
+Wed May 21 15:49:31 2014 27	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-6.pg	1	-1	2673	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+959
+_status
+267272282C2D29	0	0
+Wed May 21 15:52:15 2014 21	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap4Sec2/Q18.pg	1	-1	924	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+
+AnSwEr0005
+_reseed
+1929
+_status
+2672722F282A	0	0
+Wed May 21 15:53:08 2014 27	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-6.pg	1	-1	2673	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1980
+_status
+267272282C2D29	0	0
+Wed May 21 15:53:11 2014 27	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-6.pg	1	-1	2673	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1988
+_status
+267272282C2D29	0	0
+Wed May 21 15:53:14 2014 27	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-6.pg	1	-1	2673	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1991
+_status
+267272282C2D29	0	0
+Wed May 21 15:53:17 2014 27	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-6.pg	1	-1	2673	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1994
+_status
+267272282C2D29	0	0
+Wed May 21 15:55:00 2014 27	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-6.pg	1	-1	2673	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2097
+_status
+267272282C2D29	0	0
+Wed May 21 15:55:03 2014 27	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-6.pg	1	-1	2673	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1088
+_status
+267272282C2D29	0	0
+Wed May 21 15:56:31 2014 28	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-8.pg	1	-1	3220	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2188
+_status
+26727229282826	0	0
+Wed May 21 15:56:34 2014 28	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-8.pg	1	-1	3220	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2191
+_status
+26727229282826	0	0
+Wed May 21 15:56:36 2014 28	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-8.pg	1	-1	3220	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2193
+_status
+26727229282826	0	0
+Wed May 21 15:56:38 2014 28	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-8.pg	1	-1	3220	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2195
+_status
+26727229282826	0	0
+Wed May 21 15:56:41 2014 28	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-8.pg	1	-1	3220	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2198
+_status
+26727229282826	0	0
+Wed May 21 15:56:50 2014 29	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-34.pg	1	-1	2173	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1157
+_status
+26727228272D29	0	0
+Wed May 21 15:56:53 2014 29	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-34.pg	1	-1	2173	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1160
+_status
+26727228272D29	0	0
+Wed May 21 15:56:55 2014 29	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-34.pg	1	-1	2173	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1163
+_status
+26727228272D29	0	0
+Wed May 21 15:56:58 2014 29	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-34.pg	1	-1	2173	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1165
+_status
+26727228272D29	0	0
+Wed May 21 15:57:09 2014 30	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-36.pg	1	-1	1688	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1169
+_status
+267272272C2E2E	0	0
+Wed May 21 15:57:11 2014 30	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-36.pg	1	-1	1688	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2228
+_status
+267272272C2E2E	0	0
+Wed May 21 15:57:14 2014 30	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-36.pg	1	-1	1688	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1177
+_status
+267272272C2E2E	0	0
+Wed May 21 15:57:16 2014 30	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-36.pg	1	-1	1688	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1180
+_status
+267272272C2E2E	0	0
+Wed May 21 15:57:19 2014 30	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-36.pg	1	-1	1688	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1182
+_status
+267272272C2E2E	0	0
+Wed May 21 15:57:36 2014 31	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-38.pg	1	-1	4358	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2248
+_status
+2672722A292B2E	0	0
+Wed May 21 15:57:38 2014 31	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-38.pg	1	-1	4358	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1197
+_status
+2672722A292B2E	0	0
+Wed May 21 15:57:41 2014 31	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-38.pg	1	-1	4358	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2258
+_status
+2672722A292B2E	0	0
+Wed May 21 15:57:44 2014 31	ExpFcn-2	lane	Library/FortLewis/Algebra/10-1-Exponential-Functions/MCH1-10-1-38.pg	1	-1	4358	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1201
+_status
+2672722A292B2E	0	0
+Wed May 21 15:57:58 2014 32	ExpFcn-2	lane	Library/FortLewis/Algebra/10-3-TheExponent/MCH-10-3-6.pg	1	-1	2851	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2268
+_status
+267272282E2B27	0	0
+Wed May 21 15:58:01 2014 32	ExpFcn-2	lane	Library/FortLewis/Algebra/10-3-TheExponent/MCH-10-3-6.pg	1	-1	2851	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1215
+_status
+267272282E2B27	0	0
+Wed May 21 15:58:03 2014 32	ExpFcn-2	lane	Library/FortLewis/Algebra/10-3-TheExponent/MCH-10-3-6.pg	1	-1	2851	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2281
+_status
+267272282E2B27	0	0
+Wed May 21 16:01:54 2014 32	ExpFcn-2	lane	Library/FortLewis/Algebra/10-3-TheExponent/MCH-10-3-6.pg	1	-1	2851	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2509
+_status
+267272282E2B27	0	0
+Wed May 21 16:01:56 2014 32	ExpFcn-2	lane	Library/FortLewis/Algebra/10-3-TheExponent/MCH-10-3-6.pg	1	-1	2851	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1356
+_status
+267272282E2B27	0	0
+Wed May 21 16:01:59 2014 32	ExpFcn-2	lane	Library/FortLewis/Algebra/10-3-TheExponent/MCH-10-3-6.pg	1	-1	2851	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1358
+_status
+267272282E2B27	0	0
+Wed May 21 16:02:01 2014 32	ExpFcn-2	lane	Library/FortLewis/Algebra/10-3-TheExponent/MCH-10-3-6.pg	1	-1	2851	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+2519
+_status
+267272282E2B27	0	0
+Wed May 21 16:02:03 2014 32	ExpFcn-2	lane	Library/FortLewis/Algebra/10-3-TheExponent/MCH-10-3-6.pg	1	-1	2851	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+1361
+_status
+267272282E2B27	0	0
+Wed May 21 16:07:13 2014 36	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Q11.pg	1	-1	4716	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2822
+_status
+2672722A2D272C	0	0
+Wed May 21 16:07:18 2014 36	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Q11.pg	1	-1	4716	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2833
+_status
+2672722A2D272C	0	0
+Wed May 21 16:07:22 2014 36	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Q11.pg	1	-1	4716	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2837
+_status
+2672722A2D272C	0	0
+Wed May 21 16:07:26 2014 36	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Q11.pg	1	-1	4716	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2841
+_status
+2672722A2D272C	0	0
+Wed May 21 16:07:30 2014 36	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Q11.pg	1	-1	4716	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2845
+_status
+2672722A2D272C	0	0
+Wed May 21 16:08:19 2014 37	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-12-Exponential-functions.pg	1	-1	1010	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2877
+_status
+26727227262726	0	0
+Wed May 21 16:08:22 2014 37	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-12-Exponential-functions.pg	1	-1	1010	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2899
+_status
+26727227262726	0	0
+Wed May 21 16:08:25 2014 37	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-12-Exponential-functions.pg	1	-1	1010	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2902
+_status
+26727227262726	0	0
+Wed May 21 16:08:29 2014 37	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-12-Exponential-functions.pg	1	-1	1010	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2905
+_status
+26727227262726	0	0
+Wed May 21 16:08:32 2014 37	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-12-Exponential-functions.pg	1	-1	1010	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2908
+_status
+26727227262726	0	0
+Wed May 21 16:08:45 2014 38	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-13-Exponential-functions.pg	1	-1	637	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2916
+_status
+2672722C292D	0	0
+Wed May 21 16:08:49 2014 38	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-13-Exponential-functions.pg	1	-1	637	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2924
+_status
+2672722C292D	0	0
+Wed May 21 16:08:53 2014 38	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-13-Exponential-functions.pg	1	-1	637	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2929
+_status
+2672722C292D	0	0
+Wed May 21 16:08:56 2014 38	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-13-Exponential-functions.pg	1	-1	637	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2932
+_status
+2672722C292D	0	0
+Wed May 21 16:08:59 2014 38	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-13-Exponential-functions.pg	1	-1	637	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2935
+_status
+2672722C292D	0	0
+Wed May 21 16:09:02 2014 38	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-13-Exponential-functions.pg	1	-1	637	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2938
+_status
+2672722C292D	0	0
+Wed May 21 16:09:08 2014 38	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-13-Exponential-functions.pg	1	-1	637	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2942
+_status
+2672722C292D	0	0
+Wed May 21 16:09:15 2014 38	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec1/Connally3-3-1-13-Exponential-functions.pg	1	-1	637	0	1	
+
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+_reseed
+2948
+_status
+2672722C292D	0	0
+Wed May 21 16:10:30 2014 40	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-16.pg	1	-1	2409	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1552
+_status
+267272282A262F	0	0
+Wed May 21 16:10:35 2014 40	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-16.pg	1	-1	2409	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+3029
+_status
+267272282A262F	0	0
+Wed May 21 16:10:39 2014 40	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-16.pg	1	-1	2409	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1564
+_status
+267272282A262F	0	0
+Wed May 21 16:10:43 2014 40	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-16.pg	1	-1	2409	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+3039
+_status
+267272282A262F	0	0
+Wed May 21 16:10:46 2014 40	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-16.pg	1	-1	2409	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1571
+_status
+267272282A262F	0	0
+Wed May 21 16:11:10 2014 40	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-16.pg	1	-1	2409	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1574
+_status
+267272282A262F	0	0
+Wed May 21 16:11:21 2014 41	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-18.pg	1	-1	3229	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1595
+_status
+2672722928282F	0	0
+Wed May 21 16:11:24 2014 41	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-18.pg	1	-1	3229	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+3080
+_status
+2672722928282F	0	0
+Wed May 21 16:11:28 2014 41	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-18.pg	1	-1	3229	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+3084
+_status
+2672722928282F	0	0
+Wed May 21 16:11:31 2014 41	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-18.pg	1	-1	3229	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+3088
+_status
+2672722928282F	0	0
+Wed May 21 16:11:51 2014 42	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-36.pg	1	-1	3104	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1605
+_status
+2672722927262A	0	0
+Wed May 21 16:11:54 2014 42	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-36.pg	1	-1	3104	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1608
+_status
+2672722927262A	0	0
+Wed May 21 16:11:58 2014 42	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-36.pg	1	-1	3104	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1612
+_status
+2672722927262A	0	0
+Wed May 21 16:12:02 2014 42	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-36.pg	1	-1	3104	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+3118
+_status
+2672722927262A	0	0
+Wed May 21 16:12:05 2014 42	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-36.pg	1	-1	3104	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1618
+_status
+2672722927262A	0	0
+Wed May 21 16:12:08 2014 42	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-36.pg	1	-1	3104	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1621
+_status
+2672722927262A	0	0
+Wed May 21 16:12:12 2014 42	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-36.pg	1	-1	3104	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+3128
+_status
+2672722927262A	0	0
+Wed May 21 16:12:27 2014 43	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-38.pg	1	-1	2436	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+3139
+_status
+267272282A292C	0	0
+Wed May 21 16:12:33 2014 43	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-38.pg	1	-1	2436	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1639
+_status
+267272282A292C	0	0
+Wed May 21 16:12:38 2014 43	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-38.pg	1	-1	2436	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1643
+_status
+267272282A292C	0	0
+Wed May 21 16:12:41 2014 43	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-38.pg	1	-1	2436	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1647
+_status
+267272282A292C	0	0
+Wed May 21 16:12:50 2014 43	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-38.pg	1	-1	2436	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+1649
+_status
+267272282A292C	0	0
+Wed May 21 16:18:52 2014 44	ExpFcn-2	lane	Library/Union/setFunctionExponential/srw4_1_11.pg	1	-1	3116	0	1	
+
+AnSwEr0001
+_reseed
+3528
+_status
+2672722927272C	0	0
+Wed May 21 16:18:55 2014 44	ExpFcn-2	lane	Library/Union/setFunctionExponential/srw4_1_11.pg	1	-1	3116	0	1	
+
+AnSwEr0001
+_reseed
+1881
+_status
+2672722927272C	0	0
+Wed May 21 21:13:57 2014 51	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q12.pg	1	-1	3058	0	1	
+
+AnSwEr0001
+_reseed
+21221
+_status
+26727229262B2E	0	0
+Wed May 21 21:14:01 2014 51	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q12.pg	1	-1	3058	0	1	
+
+AnSwEr0001
+_reseed
+21237
+_status
+26727229262B2E	0	0
+Wed May 21 21:14:04 2014 51	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q12.pg	1	-1	3058	0	1	
+
+AnSwEr0001
+_reseed
+21240
+_status
+26727229262B2E	0	0
+Wed May 21 21:14:06 2014 51	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q12.pg	1	-1	3058	0	1	
+
+AnSwEr0001
+_reseed
+21243
+_status
+26727229262B2E	0	0
+Wed May 21 21:14:09 2014 51	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q12.pg	1	-1	3058	0	1	
+
+AnSwEr0001
+_reseed
+21246
+_status
+26727229262B2E	0	0
+Wed May 21 21:14:11 2014 51	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q12.pg	1	-1	3058	0	1	
+
+AnSwEr0001
+_reseed
+21249
+_status
+26727229262B2E	0	0
+Wed May 21 21:14:13 2014 51	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q12.pg	1	-1	3058	0	1	
+
+AnSwEr0001
+_reseed
+21251
+_status
+26727229262B2E	0	0
+Wed May 21 21:14:15 2014 51	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q12.pg	1	-1	3058	0	1	
+
+AnSwEr0001
+_reseed
+21253
+_status
+26727229262B2E	0	0
+Wed May 21 21:14:22 2014 50	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q11.pg	1	-1	4355	0	1	
+
+AnSwEr0001
+_reseed
+21258
+_status
+2672722A292B2B	0	0
+Wed May 21 21:14:25 2014 50	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q11.pg	1	-1	4355	0	1	
+
+AnSwEr0001
+_reseed
+21261
+_status
+2672722A292B2B	0	0
+Wed May 21 21:14:28 2014 50	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q11.pg	1	-1	4355	0	1	
+
+AnSwEr0001
+_reseed
+21264
+_status
+2672722A292B2B	0	0
+Wed May 21 21:14:33 2014 50	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q11.pg	1	-1	4355	0	1	
+
+AnSwEr0001
+_reseed
+21267
+_status
+2672722A292B2B	0	0
+Wed May 21 21:14:36 2014 50	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q11.pg	1	-1	4355	0	1	
+
+AnSwEr0001
+_reseed
+21273
+_status
+2672722A292B2B	0	0
+Wed May 21 21:14:40 2014 50	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q11.pg	1	-1	4355	0	1	
+
+AnSwEr0001
+_reseed
+21275
+_status
+2672722A292B2B	0	0
+Wed May 21 21:19:05 2014 55	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Review/Q36.pg	1	-1	590	0	1	
+
+AnSwEr0001
+_reseed
+21482
+_status
+2672722B2F26	0	0
+Wed May 21 21:24:11 2014 52	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q15.pg	1	-1	2701	0	1	
+
+AnSwEr0001
+_reseed
+21846
+_status
+267272282D2627	0	0
+Wed May 21 21:24:16 2014 52	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q15.pg	1	-1	2701	0	1	
+
+AnSwEr0001
+_reseed
+21851
+_status
+267272282D2627	0	0
+Wed May 21 21:56:02 2014 72	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q24.pg	1	-1	1988	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+23746
+_status
+267272272F2E2E	0	0
+Wed May 21 21:56:59 2014 73	ExpFcn-2	lane	Library/FortLewis/Algebra/10-2-Working-with-the-Base/MCH-10-2-49_50.pg	1	-1	2255	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+23772
+_status
+26727228282B2B	0	0
+Wed May 21 21:58:35 2014 74	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q06.pg	1	-1	1581	0	1	
+
+AnSwEr0001
+_reseed
+23896
+_status
+267272272B2E27	0	0
+Wed May 21 21:58:44 2014 74	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q06.pg	1	-1	1581	0	1	
+
+AnSwEr0001
+_reseed
+23915
+_status
+267272272B2E27	0	0
+Wed May 21 21:59:11 2014 75	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q07.pg	1	-1	1912	0	1	
+
+AnSwEr0001
+_reseed
+23936
+_status
+267272272F2728	0	0
+Wed May 21 21:59:18 2014 75	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q07.pg	1	-1	1912	0	1	
+
+AnSwEr0001
+_reseed
+23951
+_status
+267272272F2728	0	0
+Wed May 21 22:01:32 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24030
+_status
+267272282C2C2F	0	0
+Wed May 21 22:04:47 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24092
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:09 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24286
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:18 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24369
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:22 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24378
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:25 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24382
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:30 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24385
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:34 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24389
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:37 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24393
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:42 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24397
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:45 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24401
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:48 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24405
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:52 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24408
+_status
+267272282C2C2F	0	0
+Wed May 21 22:06:56 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24411
+_status
+267272282C2C2F	0	0
+Wed May 21 22:07:54 2014 76	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Q27.pg	1	-1	2669	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+_reseed
+24411
+_status
+267272282C2C2F	0	0
+Wed May 21 22:08:26 2014 77	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Connally3-3-2-08-Exponential-vs-linear.pg	1	-1	3084	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+24488
+_status
+26727229262E2A	0	0
+Wed May 21 22:08:31 2014 77	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Connally3-3-2-08-Exponential-vs-linear.pg	1	-1	3084	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+24505
+_status
+26727229262E2A	0	0
+Wed May 21 22:09:20 2014 77	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Connally3-3-2-08-Exponential-vs-linear.pg	1	-1	3084	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+24510
+_status
+26727229262E2A	0	0
+Wed May 21 22:09:26 2014 77	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Connally3-3-2-08-Exponential-vs-linear.pg	1	-1	3084	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+24560
+_status
+26727229262E2A	0	0
+Wed May 21 22:09:30 2014 77	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Connally3-3-2-08-Exponential-vs-linear.pg	1	-1	3084	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+24566
+_status
+26727229262E2A	0	0
+Wed May 21 22:09:35 2014 77	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Connally3-3-2-08-Exponential-vs-linear.pg	1	-1	3084	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+24570
+_status
+26727229262E2A	0	0
+Wed May 21 22:09:39 2014 77	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Connally3-3-2-08-Exponential-vs-linear.pg	1	-1	3084	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+24575
+_status
+26727229262E2A	0	0
+Wed May 21 22:09:44 2014 77	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Sec2/Connally3-3-2-08-Exponential-vs-linear.pg	1	-1	3084	0	1	
+
+AnSwEr0001
+
+AnSwEr0002
+
+AnSwEr0003
+
+AnSwEr0004
+_reseed
+24579
+_status
+26727229262E2A	0	0
+Thu May 22 06:31:39 2014 59	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Review/Q14.pg	1	-1	734	0	1	
+
+AnSwEr0001
+_reseed
+54692
+_status
+2672722D292A	0	0
+Thu May 22 06:31:44 2014 59	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Review/Q14.pg	1	-1	734	0	1	
+
+AnSwEr0001
+_reseed
+54698
+_status
+2672722D292A	0	0
+Thu May 22 06:31:49 2014 59	ExpFcn-2	lane	Library/LoyolaChicago/Precalc/Chap3Review/Q14.pg	1	-1	734	0	1	
+
+AnSwEr0001
+_reseed
+54704
+_status
+2672722D292A	0	0
